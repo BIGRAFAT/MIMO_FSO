@@ -18,8 +18,11 @@ same conditions.
 
 
 `siso.m`: simulates the transmission & reception of SISO system in Rayleigh Fading & AWGN channel; saves the obtained values to `mysiso.mat`
+
 `mimo.m`: simulates the transmission & reception of MIMO system in Rayleigh Fading & AWGN channel; saves the obtained values to `mymimo.mat`
+
 `powerpenalty.m`: plots power penalty vs cloud thickness for various configarations using data stored in `mysiso.mat` & `mymimo.mat`
+
 `ber.m`: plots ber vs cloud thickness for various configarations using data stored in `mysiso.mat` & `mymimo.mat`
 
 `thesis report`: presents the findings
