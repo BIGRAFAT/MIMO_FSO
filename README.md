@@ -17,6 +17,7 @@ same conditions.
 
 
 
+
 `siso.m`: simulates the transmission & reception of SISO system in Rayleigh Fading & AWGN channel; saves the obtained values to `mysiso.mat`
 
 `mimo.m`: simulates the transmission & reception of MIMO system in Rayleigh Fading & AWGN channel; saves the obtained values to `mymimo.mat`
