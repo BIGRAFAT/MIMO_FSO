@@ -22,20 +22,20 @@ same conditions.
 presents the findings
 
 `siso.m`:
-simulates the transmission & reception of SISO system in Rayleigh Fading & AWGN channel
-produces Figure 4.1 (BER vs Eb/No for SISO with cloud & no fading)
-produces Figure 4.2 (BER vs Eb/No for SISO with cloud & fading)
-saves the obtained values to `mysiso.mat`
+*simulates the transmission & reception of SISO system in Rayleigh Fading & AWGN channel
+*produces Figure 4.1 (BER vs Eb/No for SISO with cloud & no fading)
+*produces Figure 4.2 (BER vs Eb/No for SISO with cloud & fading)
+*saves the obtained values to `mysiso.mat`
 
 `mimo.m`:
-simulates the transmission & reception of MIMO system in Rayleigh Fading & AWGN channel
-produces Figure 4.3 (BER vs Eb/No for MIMO with cloud & no fading)
-produces Figure 4.4 (BER vs Eb/No for MIMO with cloud & fading)
-saves the obtained values to `mymimo.mat`
+*simulates the transmission & reception of MIMO system in Rayleigh Fading & AWGN channel
+*produces Figure 4.3 (BER vs Eb/No for MIMO with cloud & no fading)
+*produces Figure 4.4 (BER vs Eb/No for MIMO with cloud & fading)
+*saves the obtained values to `mymimo.mat`
 
 `powerpenalty.m`:
-produces Figure 4.5 (power penalty vs cloud thickness for various configarations)
+*produces Figure 4.5 (power penalty vs cloud thickness for various configarations)
 
 `ber.m`:
-produces Figure 4.6 (ber vs cloud thickness for various configarations)
+*produces Figure 4.6 (ber vs cloud thickness for various configarations)
 
