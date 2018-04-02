@@ -152,5 +152,5 @@ grid on
 title('MIMO withCloud withFading')
 
 
-save MIMO MIMO_*
+save myMIMO MIMO_*
 
